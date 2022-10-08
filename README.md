@@ -55,8 +55,8 @@ Predict the new sample data.
 
 ## PROGRAM
 ```python
-# Developed By : Tamil Venthan R S
-# Register Number : 212220230054
+# Developed By : Navneeth Krishnan
+# Register Number : 212219040094
 
 
 
